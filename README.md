@@ -1,4 +1,4 @@
-# Enramadod
+# Enramados
 
 Se realizo la actividad de creación de los archivos A.txt, A.txt, B.txt, C.txt, D.txt, E.txt, F.txt y G.txt en tres ramas distintas: main, rama1 y rama2. También se creaban, modificaban y borraban los archivos en diferentes puntos de las ramas. Y también se fusionaban las distintas, como se muestra en la siguiente imagen.
 
